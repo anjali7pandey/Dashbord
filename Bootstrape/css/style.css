@@ -1,0 +1,17 @@
+.btn-primay
+{
+	background: linear-gradient(45deg,darkslategray,rgb(27,111,174));
+}
+.kk
+{
+	height: 150px!important;
+	width:  100%!important;
+}
+.bg-card
+{
+	background-color: rgb(254,241,189)!important;
+}
+.bg-success
+{
+	background: linear-gradient(45deg,darkslategray,rgb(27,111,174));
+}
